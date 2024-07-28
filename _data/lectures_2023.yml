@@ -3,7 +3,7 @@
     <strong>Introduction</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/llwlbqw18ud66f">Slides</a>, <a href="https://www.youtube.com/watch?v=fEdN8T_rgR8">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -12,7 +12,7 @@
     <strong>Linear Algebra 1</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/llz9e3c7kt44g7">Slides</a>, <a href="https://www.youtube.com/watch?v=jJ9vymfEVNo">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -21,16 +21,16 @@
     <strong>Linear Algebra 2</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/llz9e3c7kt44g7">Slides</a>, <a href="https://www.youtube.com/watch?v=WnMxuhkiwEg">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
-  Homeworks: <a href="">HW 1 release</a>
+  Homeworks: <a href="">HW 1 Release</a>
 
 - date: 9/5
   title: >
     <strong>Optimization</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lmgfrj299ca208">Slides</a>, <a href="https://www.youtube.com/watch?v=-Upz2jiQxFw">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
   
@@ -39,7 +39,7 @@
     <strong>Deterministic Representations</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lmgg4j35eow4h6">Slides</a>, <a href="https://www.youtube.com/watch?v=Xq-Si7r1yGI">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -48,7 +48,7 @@
     <strong>Data-Driven Representations</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lmjetkvuesh78z">Slides</a>, <a href="https://youtu.be/cWnTn03SgfQ">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -57,7 +57,7 @@
     <strong>Classification and Metaclassifier</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lmp221x0948496">Slides</a>, <a href="https://youtu.be/SjUnAg-cO5k">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -66,16 +66,16 @@
     <strong>Face Detection</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lmvgc57hbqf55x">Slides</a>, <a href="https://youtu.be/AxWjvGCSsmE">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
-  Homeworks:
+  Homeworks: <a href="https://canvas.cmu.edu/courses/40522">HW 1 Deadline</a>
 
 - date: 9/24
   title: >
     <strong>Non-Negative Matrix Factorization</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/ln496jfnuj56qo">Slides</a>, <a href="https://youtu.be/FFNgElSwoOU">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -84,16 +84,16 @@
     <strong>Probability and Information Theory</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/ln4951gz7rn4qu">Slides</a>, <a href="https://www.youtube.com/watch?v=nFNhtG-aRZA">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
-  Homeworks: <a href="">HW 2 release</a>
+  Homeworks: <a href="">HW 2 Release</a>
 
 - date: 10/1
   title: >
     <strong>Independent Component Analysis 1</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnamt3r75ne5l">Slides</a>, <a href="https://youtu.be/JyaoldDkDvc">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -102,7 +102,7 @@
     <strong>Independent Component Analysis 2</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnamt3r75ne5l">Slides</a>, <a href="https://youtu.be/JyaoldDkDvc">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -111,7 +111,7 @@
     <strong>Clustering</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7svson0k1n7">Slides</a>, <a href="https://youtu.be/We_KRjcHC3I">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -120,7 +120,7 @@
     <strong>Dictionary Representations</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7svson0k1n7">Slides</a>, <a href="https://youtu.be/We_KRjcHC3I">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -131,7 +131,7 @@
   lectures: >
     -
   readings:
-  Homeworks: <a href="">HW 3 release</a>
+  Homeworks: <a href="">HW 3 Release</a>
 
 - date: 10/17
   title: >
@@ -147,7 +147,7 @@
     <strong>Sparse and Overcomplete Representations</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnqugqgieh01vc">Slides</a>, <a href="https://youtu.be/WHn02HVqWZw">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks: 
 
@@ -156,7 +156,7 @@
     <strong>Regression and Prediction</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnqugyrfxp729q">Slides</a>, <a href="https://youtu.be/jxkeallcKYc">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -165,7 +165,7 @@
     <strong>Linear Classifier</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lo8x2mgbh9u1td">Slides</a>, <a href="https://www.youtube.com/watch?v=4izUHmyUb6E">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -174,7 +174,7 @@
     <strong>Expectation Maximization 1</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lo8xjfrylbz6g">Slides</a>, <a href="https://www.youtube.com/watch?v=776Iw29z9vE">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -192,16 +192,16 @@
     <strong>Expectation Maximization 2</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lotningne0i4m2">Slides</a>, <a href="https://www.youtube.com/watch?v=jKHztaOsliM">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
-  Homeworks: <a href="">HW 4 release</a>
+  Homeworks: <a href="">HW 4 Release</a>
 
 - date: 11/12
   title: >
     <strong>Factor Analysis</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7w9o5u9k57e">Slides</a>, <a href="https://www.youtube.com/watch?v=pgwdwIejAIw">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -210,7 +210,7 @@
     <strong>Supervised Representation</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7w9o5u9k57e">Slides</a>, <a href="https://www.youtube.com/watch?v=FqgA2_ghj5c">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -219,7 +219,7 @@
     <strong>Hidden Markov Models 1</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z0s4qxg7cr">Slides</a>, <a href="https://www.youtube.com/watch?v=acvfy5GjT6k">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -228,7 +228,7 @@
     <strong>Hidden Markov Models 2</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z0s4qxg7cr">Slides</a>, <a href="https://www.youtube.com/watch?v=WwjrHF_0bF8">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -237,7 +237,7 @@
     <strong>Non-Linear Dynamical Systems</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z0s4qxg7cr">Slides</a>, <a href="https://www.youtube.com/watch?v=WwjrHF_0bF8">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -255,7 +255,7 @@
     <strong>Kalman Filtering 1</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z5bxhvo7js">Slides</a>, <a href="https://www.youtube.com/watch?v=1bdpkaIU4q4">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks: 
   
@@ -264,7 +264,7 @@
     <strong>Kalman Filtering 2</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z6vecp47l2">Slides</a>, <a href="https://youtu.be/vIaLlxd3SWM">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -273,7 +273,7 @@
     <strong>Particle Filtering</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z6vecp47l2">Slides</a>, <a href="https://youtu.be/vIaLlxd3SWM">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -282,7 +282,7 @@
     <strong>Time to Predict Very Rare Events</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z6vecp47l2">Slides</a>, <a href="https://youtu.be/vIaLlxd3SWM">Video</a>
+    <a href="">Slides</a>, <a href="">Video</a>
   readings:
   Homeworks:
 
@@ -291,6 +291,6 @@
     <strong>COURSE GRADES DUE</strong>
   topics:
   lectures: >
-    <a href="https://canvas.cmu.edu/courses/40522">Slides</a>, <a href="https://canvas.cmu.edu/courses/40522">Video</a>
+    <a href="https://canvas.cmu.edu/courses/40522">Canvas</a>
   readings:
   Homeworks:
